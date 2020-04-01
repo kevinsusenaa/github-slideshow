@@ -2,7 +2,7 @@ $ git checkout -b new_branch
 Switched to a new branch ‘new_branch’
 $ echo “some test file” > test
 $ cat test
-Some test file
+Some test fileeeeeeeeeee
 $ git status
 On branch new_branch
 No commits yet
